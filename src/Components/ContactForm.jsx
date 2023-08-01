@@ -27,9 +27,6 @@ const ContactForm = () => {
 
   return (
     <>
-      {/* creat form for name, email, phone number
-      save to a state
-      when submitted show alert with the info */}
       <h3>Contact Form</h3>
       <form onSubmit={submitHandler}>
         <label>
