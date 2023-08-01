@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>React Router</h1>
+      <h1>Router Demo</h1>
       <Home />
       <About />
       <Contact />
