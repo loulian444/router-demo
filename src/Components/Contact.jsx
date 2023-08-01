@@ -1,8 +1,10 @@
+import ContactForm from "./ContactForm.jsx";
+
 const Contact = () => {
   return (
     <>
       <h3>Contacts</h3>
-      <p>here are some words about my contacts</p>
+      <ContactForm />
     </>
   );
 };
